@@ -1,0 +1,2 @@
+This is my first time using git command from terminal :))))
+Hello world 

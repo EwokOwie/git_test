@@ -1,0 +1,1 @@
+First time using the git from terminal!
